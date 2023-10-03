@@ -1,4 +1,4 @@
-This assignment dealth with using files. It also demonstrated various modules such as CSV, Date, ERB.
+This assignment dealt with using files. It also demonstrated various modules such as CSV, Date, ERB.
 
 The main work was manipulating CSV data, creating output and results.
 
