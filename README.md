@@ -2,11 +2,11 @@ ruby event manager
 
 This project demonstrates:
 
-Loading and writing files
-Manipulating data from files
-Using CSV module with csv files
-Using ERB module and templates
-Using DATE module to turn file data into usable objects
+Loading and writing files  
+Manipulating data from files  
+Using CSV module with csv files  
+Using ERB module and templates  
+Using DATE module to turn file data into usable objects  
 
 ---------------------------------------------------
 
