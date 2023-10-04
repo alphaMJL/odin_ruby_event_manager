@@ -1,14 +1,14 @@
-This assignment dealt with using files. It also demonstrated various modules such as CSV, Date, ERB.
+ruby event manager
 
-The main work was manipulating CSV data, creating output and results.
+This project demonstrates:
 
-I exported the phone list results to a new csv.
+Loading and writing files
+Manipulating data from files
+Using CSV module with csv files
+Using ERB module and templates
+Using DATE module to turn file data into usable objects
 
-
-
-
-
-
+---------------------------------------------------
 
 Assignment: Clean phone numbers
 Similar to the zip codes, the phone numbers suffer from multiple formats and inconsistencies. If we wanted to allow individuals to sign up for mobile alerts with the phone numbers, we would need to make sure all of the numbers are valid and well-formed.
